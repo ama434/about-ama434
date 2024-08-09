@@ -7,7 +7,7 @@ hero:
   text: "あま"
   tagline: 書体 音楽 インターネット
   image:
-    src: /src/logo.webp
+    src: icon.png
     alt: icon
   actions:
     - theme: brand
