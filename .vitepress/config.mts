@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ama_434",
-  description: "サイトの名前はportfolioだが、正直名前負けしている",
+  description: "サイトの名前はportfolioだが、正直名前負けしていると思う",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon.png',
