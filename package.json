@@ -1,0 +1,17 @@
+{
+  "name": "ama434-portfolio",
+  "version": "1.0.0",
+  "description": "@ama_434's portfolio page",
+  "main": "index.js",
+  "repository": "https://github.com/AMA-434/ama434-portfolio",
+  "author": "ama-434",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.3.2"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
