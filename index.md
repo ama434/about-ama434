@@ -7,7 +7,7 @@ hero:
   text: "あま"
   tagline: 書体 音楽 インターネット
   image:
-    src: icon.png
+    src: /icon.png
     alt: icon
   actions:
     - theme: brand
