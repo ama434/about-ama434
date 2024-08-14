@@ -29,12 +29,13 @@ export default defineConfig({
       ],
     ],
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/icon.png',
+    logo: '/public/icon.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/docs/about' },
-      { text: 'Links', link: '/docs/links' },
-      { text: 'Works', link: '/docs/works' }
+      { text: 'Works', link: '/docs/works' },
+      { text: 'Links', link: '/docs/links' }
+
     ],
 
     sidebar: [
@@ -49,8 +50,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ama434' },
-      { icon: 'twitter', link: 'https://x.com/ama_434' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@ama_434' }
+      { icon: 'twitter', link: 'https://x.com/ama_434' }
     ]
   },
   base: "/ama434-portfolio/"
