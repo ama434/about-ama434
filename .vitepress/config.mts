@@ -27,18 +27,6 @@ export default defineConfig({
           return t;
         })(document, 'script', 'twitter-wjs');`,
       ],
-      [
-        'link',
-        { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
-      ],
-      [
-        'link',
-        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
-      ],
-      [
-        'link',
-        { href: 'https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&display=swap', rel: 'stylesheet' }
-      ],
     ],
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon.png',

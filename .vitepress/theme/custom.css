@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&display=swap');
+
 :root {
   --vp-c-brand-1: var(--vp-c-green-1);
   --vp-c-brand-2: var(--vp-c-green-2);
   --vp-c-brand-3: var(--vp-c-green-3);
   --vp-c-brand-soft: var(--vp-c-green-soft);
-  --vp-font-family-base: 'Inter', "Zen Kaku Gothic New", ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --vp-font-family-base: 'Inter', 'Zen Kaku Gothic New', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
