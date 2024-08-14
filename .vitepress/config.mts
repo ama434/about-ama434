@@ -53,5 +53,5 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://x.com/ama_434' }
     ]
   },
-  base: "/ama434-portfolio/"
+  base: "/about-ama434/"
 })
