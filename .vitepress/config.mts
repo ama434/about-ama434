@@ -5,6 +5,29 @@ export default defineConfig({
   title: "ama_434",
   description: "サイトの名前はportfolioだが、正直名前負けしていると思う",
   themeConfig: {
+    head: [
+      // https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/set-up-twitter-for-websites
+      [
+        'script',
+        { id: 'register-twitter-widget' },
+        `window.twttr = (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0],
+          t = window.twttr || {};
+          if (d.getElementById(id)) return t;
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "https://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js, fjs);
+
+          t._e = [];
+          t.ready = function(f) {
+            t._e.push(f);
+          };
+
+          return t;
+        })(document, 'script', 'twitter-wjs');`,
+      ],
+    ],
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon.png',
     nav: [

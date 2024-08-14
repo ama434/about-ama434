@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "ama_434"
   text: "あま"
-  tagline: 書体 音楽 インターネット
+  tagline: 書体 音楽
   image:
     src: /icon.png
     alt: icon
@@ -25,6 +25,6 @@ features:
     details: フォントが好きです。
   - title: 音楽
     details: 音楽が好きです。
-  - title: インターネット
-    details: インターネットが好きです。
+  - title: 開発
+    details: 勉強中です。
 ---

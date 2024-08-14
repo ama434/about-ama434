@@ -4,31 +4,36 @@ title: About me
 
 # About me
 
-書体と音楽のファンです。2024年8月現在、高等専門学校で制御や情報を学んでいます。
+書体と音楽のファンです。高等専門学校で制御や情報を学んでいます。
 
 ## 基本情報
 
 | もの  | 説明  |
 | --- | --- |
 | 生年月日 | 2006年3月5日 |
-| 利き手 | 右 |
-| 視力 | 1.5 |
 | 出身 | 福岡県 |
+| 視力 | 1.5 |
 
 ## 好きなもの・こと
 
 ### 書体
 
-モリサワとフォントワークスが好きで、MORISAWA PASSPORT アカデミック版、学生向けフォントワークスLETSを契約しています。
+文字のデザインを探求するのが好きです。フォントサブスクリプションサービスを活用し、趣味でグラフィックデザインをしています（勉強中）。
 
-2024年9月に、モリサワによる写研書体のデジタル版がリリースされるので、楽しみに待っています。
+（制作物の例：[高専カンファレンス in 沖縄2024](https://kosenconf.jp/?167okinawa)の開催告知ポスター）
+<blockquote class="twitter-tweet" data-lang="ja" data-theme="light"><p lang="ja" dir="ltr">38万㎢ぶんの愛を、持ち寄って。<br><br> <a href="https://twitter.com/hashtag/kosenconf167okinawa?src=hash&amp;ref_src=twsrc%5Etfw">#kosenconf167okinawa</a> <a href="https://t.co/p3J0r1rdT4">pic.twitter.com/p3J0r1rdT4</a></p>&mdash; 高専カンファレンス167in沖縄2024 (@kosenconf167) <a href="https://twitter.com/kosenconf167/status/1821897733978124443?ref_src=twsrc%5Etfw">2024年8月9日</a></blockquote><!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+その他の制作物はWorksページに記載しています。
 
 ### 音楽
 
-シンセサイザーが好きで、[KORG minilogue xd](https://www.korg.com/jp/products/synthesizers/minilogue_xd/)と[YAMAHA DX7](https://jp.yamaha.com/products/music_production/synthesizers/dx7/index.html)を所持しています。
+シンセサイザーが好きで、
 
-ニンテンドー3DS用ソフト「[大合奏！バンドブラザーズP](https://www.nintendo.co.jp/3ds/anej/index.html)」を使用して音楽の再現をし、一部は公開しています。ネットワークサービスは終了してしまいましたが、SNSでほかのプレイヤーと交流して楽しんでいます。
+- [KORG minilogue xd](https://www.korg.com/jp/products/synthesizers/minilogue_xd/)
+- [YAMAHA DX7](https://jp.yamaha.com/products/music_production/synthesizers/dx7/index.html)
 
-お気に入りのプレイリストを貼っておきます。
+を所持しています。
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/favorite-songs/pl.u-RrU3Lq796j"></iframe>
+ニンテンドー3DS用ソフト「[大合奏！バンドブラザーズP](https://www.nintendo.co.jp/3ds/anej/index.html)」を使用して音楽の再現や共同制作をし、一部は公開しています。ネットワークサービスは終了してしまいましたが、SNSでほかのプレイヤーと交流して楽しんでいます。
+
+###
