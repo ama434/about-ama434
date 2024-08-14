@@ -29,7 +29,7 @@ export default defineConfig({
       ],
     ],
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/public/icon.png',
+    logo: '/icon.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/docs/about' },
