@@ -16,7 +16,7 @@ prev:
 
 ## GitHub
 
-[Ama434 (@ama434)](https://github.com/ama434)
+[Ama (@ama434)](https://github.com/ama434)
 
 ## Last.fm
 

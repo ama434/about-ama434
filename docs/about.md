@@ -38,7 +38,7 @@ next:
 - [KORG minilogue xd](https://www.korg.com/jp/products/synthesizers/minilogue_xd/)
 - [YAMAHA DX7](https://jp.yamaha.com/products/music_production/synthesizers/dx7/index.html)
 
-を所持しています。
+を所有しています。
 
 ニンテンドー3DS用ソフト「[大合奏！バンドブラザーズP](https://www.nintendo.co.jp/3ds/anej/index.html)」を使用して音楽の再現や共同制作をし、一部は公開しています。ネットワークサービスは終了してしまいましたが、SNSでほかのプレイヤーと交流して楽しんでいます。
 
