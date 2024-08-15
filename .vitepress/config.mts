@@ -52,7 +52,7 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://x.com/ama_434' }
     ],
     footer: {
-      message: 'Released under the MIT License.',
+      message: 'Released under the <a href="https://github.com/ama434/about-ama434/blob/main/LICENSE.txt">MIT License</a>.',
       copyright: 'Copyright © 2024-present ama_434'
     },
   },
