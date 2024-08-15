@@ -47,11 +47,14 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ama434' },
       { icon: 'twitter', link: 'https://x.com/ama_434' }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2024-present ama_434'
+    },
   },
   base: "/about-ama434/"
 })
