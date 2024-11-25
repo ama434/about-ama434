@@ -56,5 +56,5 @@ export default defineConfig({
       copyright: 'Copyright © 2024-present ama_434'
     },
   },
-  base: "/about-ama434/"
+  base: "/"
 })
